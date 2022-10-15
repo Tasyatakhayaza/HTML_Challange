@@ -1,0 +1,20 @@
+
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+.green {
+    background-color: green;
+    color: white;
+}
